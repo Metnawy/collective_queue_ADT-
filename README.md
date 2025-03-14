@@ -1,5 +1,3 @@
-# collective_queue_ADT-
-Creating a `README.md` file for your GitHub repository is essential to explain the purpose, functionality, and usage of your code. Below is a sample `README.md` file for your `collective_queue.py` implementation:
 
 ---
 
@@ -13,8 +11,6 @@ This repository contains a Python implementation of various queue data structure
 3. [Classes and Methods](#classes-and-methods)
 4. [Usage](#usage)
 5. [Examples](#examples)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ---
 
